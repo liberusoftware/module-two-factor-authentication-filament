@@ -13,4 +13,3 @@ final class TwoFactorAuthenticationFilamentServiceProvider extends ServiceProvid
         $this->loadViewsFrom(__DIR__.'/../resources/views', 'two-factor-authentication-filament');
     }
 }
-
